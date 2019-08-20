@@ -1,0 +1,3 @@
+[groundtruth_person / groundtruth_car] \ [동영상파일명] 폴더와
+
+video \ images \ [동영상파일명] 폴더를 업로드 해주세요!
